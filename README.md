@@ -12,6 +12,7 @@ Table of Contents
 6. Run Instructions
 
 ## 1. Dataset:
+Kaggle Link : https://www.kaggle.com/datasets/datamunge/sign-language-mnist/data
 The dataset consists of labeled images of ASL hand gestures represented as 28x28 pixel grayscale images, flattened into 784-feature rows in a CSV file format. Each row corresponds to one image, with:
 
 Label: The ASL letter being represented, converted to a numeric class.
